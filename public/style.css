@@ -1,20 +1,20 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #331400;
-	background-color: #ffc299;
-	text-align: center;
-	line-height: 1.4em;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #331400;
+  background-color: #ffc299;
+  text-align: center;
+  line-height: 1.4em
 }
 
 .container {
-	padding: 10px;
-	margin: 80px;
+  padding: 10px;
+  margin: 80px;
   background-color: #fff0e6;
   border: 5px solid #ff6600;
-  border-radius: 5px;
+  border-radius: 5px
 }
 
 h3 {
@@ -23,38 +23,32 @@ h3 {
   text-decoration: underline;
 }
 
-.footer {
-	margin-top: 40px;
-}
+.footer { margin-top: 40px }
 
 .user-stories {
   position: relative;
   text-align: justify;
   max-width: 700px;
-  margin: 15px auto;
+  margin: 15px auto
 }
+
 code {
   font-family: monospace;
   padding: 2px;
   color: black;
-  background-color: #fff;
+  background-color: #fff
 }
-ol {
-	list-style-position: outside;
-}
-ul {
-	list-style-type: none;
-}
+
+ol { list-style-position: outside }
+
+ul { list-style-type: none }
 
 li {
   margin-bottom: 0.5em;
   max-width: 900px;
-  margin: 15px auto;
-}
-.user-stories li {
-  margin-bottom: 1em;
+  margin: 15px auto
 }
 
-a {
-	color: #2574A9;
-}
+.user-stories li { margin-bottom: 1em }
+
+a { color: #2574A9 }
